@@ -3,7 +3,7 @@ version: '3.8'
 services:
   openvpn-client:
     container_name: openvpn-client
-    image: localhost:5000/airvpn-hummingbird
+    image: cloud.canister.io:5000/jeffr47/hummingbird-docker
     cap_add:
       - net_admin
     sysctls:
