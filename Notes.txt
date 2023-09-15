@@ -1,0 +1,4 @@
+
+Hummingbird binary downloaded from https://gitlab.com/AirVPN/AirVPN-Suite/-/tree/master/binary.
+
+
