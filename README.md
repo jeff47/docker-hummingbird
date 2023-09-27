@@ -1,4 +1,4 @@
-# hummingbird-docker
+# docker-hummingbird
 Docker container for AirVPN's hummingbird OpenVPN client
 
 This is a docker container for [AirVPN](https://gitlab.com/AirVPN/hummingbird)'s hummingbird client.  (https://gitlab.com/AirVPN/hummingbird)  My motivation for making a docker version is to simplify the tunneling of other docker containers through the VPN tunnel.
