@@ -16,3 +16,5 @@ In the example below, config files are stored in a subdirectory off the docker-c
 4. Create the file ```hummingbird.ini``` in ```openvpn-client/```.
 5. Add the required line ```ovpn-config``` pointing to the ovpn file you downloaded in step 3.  Make sure the path matches the path from inside the container, not on the host filesystem.
 
+# Repository Link
+https://github.com/jeff47/docker-hummingbird/pkgs/container/docker-hummingbird
